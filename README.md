@@ -6,13 +6,14 @@
    - [SQL Script](#1-annotated-group_6_ev_population-1sqlpdf)
    - [SQL Queries](#2-annotated-group_6_ev_population_queries-1txtpdf)
    - [Entity-Relationship Diagram](#3-grop_6_ev_population_erd_diagram-1mwb)
+   - [Final Report](#4-written-final-reportpdf)
 3. [Key Features](#key-features-of-the-database)
 4. [How to Use](#how-to-use)
 5. [Contributors](#contributors)
 6. [License](#license)
 
 ## Project Overview
-This project focuses on analyzing the population of electric vehicles (EVs) using a structured MySQL database. The database stores and manages information related to electric vehicles, including their make, model, year, type, location, and electric range. The project includes an entity-relationship diagram (ERD), SQL scripts for database creation and querying, and a set of SQL views for extracting meaningful insights.
+This project focuses on analyzing the population of electric vehicles (EVs) using a structured MySQL database. The database stores and manages information related to electric vehicles, including their make, model, year, type, location, and electric range. The project includes an entity-relationship diagram (ERD), SQL scripts for database creation and querying, a final report summarizing findings, and a set of SQL views for extracting meaningful insights.
 
 ## Files in This Project
 ### 1. **annotated-Group_6_ev_population-1.sql.pdf**
@@ -35,6 +36,11 @@ This project focuses on analyzing the population of electric vehicles (EVs) usin
    - The ERD visually represents the relationships between key entities like vehicles, models, locations, and electric utilities.
    - It provides a structured overview of how data is interconnected, aiding in database design and query optimization.
 
+### 4. **Written Final Report.pdf**
+   - This document provides a summary and analysis of the project findings.
+   - It includes an explanation of database design choices, key insights from the queries, and an evaluation of trends in EV adoption.
+   - The report also discusses any challenges encountered during the project and possible future improvements.
+
 ## Key Features of the Database
 - **Comprehensive EV Data Storage**: Includes information on EV make, model, type, electric range, and MSRP.
 - **Geographical Analysis**: Tracks where different EV models are located.
@@ -50,7 +56,10 @@ This project focuses on analyzing the population of electric vehicles (EVs) usin
 2. **Understanding Data Relationships**
    - Refer to the ERD file (`Grop_6_EV_Population_ERD_Diagram-1.mwb`) to visualize table relationships.
 
-3. **Performing Analysis**
+3. **Review Project Findings**
+   - Read the final report (`Written Final Report.pdf`) for a detailed analysis of the data and conclusions drawn from the project.
+
+4. **Performing Analysis**
    - Use provided queries to analyze EV distributions, identify popular models, and compare brand performance.
 
 
